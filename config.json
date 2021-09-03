@@ -1,0 +1,9 @@
+{
+    "token":"ODMxOTkzMjMyOTk2NTY0OTky.YHdUFA.v179HbNpLWHUti7taMNc-PTEsJA",
+    "prefix":",",
+    "ticketcategorys":{
+        "c1":"Paste the ID from the first Ticket category here",
+        "c2":"Paste the ID from the secound Ticket category here",
+        "c3":"Paste the ID from the third Ticket category here"
+    }
+}
