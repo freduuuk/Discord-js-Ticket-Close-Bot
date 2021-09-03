@@ -27,9 +27,9 @@ node .
 ## Now your bot should work and is ready to use!
 
 ## License
-/**
+```xml
  * @INFO
  * Bot Coded by Freduuuk#9999
  * Please mention Him when you use this code!
  * @INFO
- */
+ ```
